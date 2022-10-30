@@ -5,6 +5,6 @@ setup (name='booklover',
       url='https://github.com/bmcgregor22/bookclub.git',
       author = 'Bruce McGreor',
       license = 'GNU',
-      packages= ['src','tests','booklove'])
+      packages= ['tests','booklove'])
        
        
